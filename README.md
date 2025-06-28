@@ -6,4 +6,10 @@ Manage Company Staff
 **GitHub Username:** Smoke9911
 **Questions Answered:** 1, 2, 3
 
+# #Superuser Credentials
+# Username: Nasiteh
+# Email address: nasitehkpanja@gmail.com
+# Password: Nasiteh2006!
+
+
 [GitHub Profile](https://github.com/<Smoke9911)
