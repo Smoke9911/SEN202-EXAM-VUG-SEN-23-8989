@@ -1,3 +1,4 @@
+
 from rest_framework import viewsets
 from .models import Manager, Intern
 from .serializers import ManagerSerializer, InternSerializer
